@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">MyApp16_3</string>
+    <string name="email_adress">Email Adress</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="or">or</string>
+    <string name="sign_up"><u>Sign up</u></string>
+    <string name="what_s_here">WHAT\'S HERE</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
 </resources>
